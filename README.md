@@ -1,4 +1,3 @@
-
 How to covert:
 1. Write "make my_project". This will create executable "my_project".
 2.Run command "./my_project <source_image> <destination_image>"
@@ -10,4 +9,3 @@ How to covert:
 3.Run command "./my_project <source_image> <destination_image>"
 4.Write "make clean". This will remove the executable "my_project" and all the .o files.
 5.Destination image is generated in the specified directory.
-
